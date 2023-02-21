@@ -28,8 +28,16 @@ function generateMarkdown(data) {
   ${data.license}
   ## Tests
   To test, run the following command: ${data.tests}
+  
   ## Contributors
   ${data.contributer}
+
+  ## Questions
+  If you have any questions, please contact me using the following links:
+  
+  - GitHub: [${data.username}](https://github.com/${data.username})
+  - Email: [${data.email}](mailto:${data.email})
+  - Project URL: [${data.url}](${data.url})
 
 
 `;
