@@ -1,9 +1,20 @@
-# This is my new project.
+# README GENERATOR.
 
   ![License](https://img.shields.io/badge/license-MIT-blue.svg)
   
   ## Description
-    This is the project description.
+    This is a command-line application that accepts user input so that when a user is prompted for information about the application repository then a high-quality, professional README.md is generated with the information listed below:
+    * The title of my project 
+    * Sections entitled:
+      * Description 
+      * Table of Contents 
+      * Installation 
+      * Usage 
+      * License 
+      * Contributing 
+      * Tests 
+      * Questions.
+    The application uses the command: node index.js to start and then the user is prompted for input which is then used to generate the README.
 
   ## Table of Contents
   - [Installation](#installation)
