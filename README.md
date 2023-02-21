@@ -46,4 +46,6 @@
   - Email: [email@gmail.com](mailto:email@gmail.com)
   - Project URL: [www.myproject.com](www.myproject.com)
 
-
+  ## Demo
+  The following video is an example of an app demonstrating command-line functionality:
+  ![Application functionality demo](https://drive.google.com/file/d/1kcyomC42f5wZTWHE1EsIpQK1-VELdweD/view)
