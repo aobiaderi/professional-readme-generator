@@ -70,12 +70,19 @@ function askQuestions() {
       }
     ]); // end of return 
   }; // end of function
+
 // function to write README file
 function writeToFile(fileName, data) {
-}
+    fs.writeFile(fileName, data, "utf8", function (err) {
+        if (err) {
+          throw err;
+        }
+        console.log("You have successfully written your README file");
+      });
+};
 
 // function to initialize program
-function init() {
+async function init() {
 
 }
 
