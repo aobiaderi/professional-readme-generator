@@ -48,4 +48,5 @@
 
   ## Demo
   The following video is an example of an app demonstrating command-line functionality:
-  ![Application functionality demo](https://drive.google.com/file/d/1kcyomC42f5wZTWHE1EsIpQK1-VELdweD/view)
+  ![Application functionality demo]
+  https://drive.google.com/file/d/1kcyomC42f5wZTWHE1EsIpQK1-VELdweD/view
