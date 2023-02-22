@@ -16,6 +16,15 @@
       * Questions.
     The application uses the command: node index.js to start and then the user is prompted for input which is then used to generate the README.
 
+  ## Demo
+  The video link gives a walkthrough of the readme generator app demonstrating the command-line functionality:
+  [Application functionality demo](https://drive.google.com/file/d/1kcyomC42f5wZTWHE1EsIpQK1-VELdweD/view)
+  
+  ## Screenshot
+  The following image shows the application's appearance:
+  ![Readme generator](/utils/readme%20generator.gif)
+    
+
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
@@ -46,7 +55,4 @@
   - Email: [email@gmail.com](mailto:email@gmail.com)
   - Project URL: [www.myproject.com](www.myproject.com)
 
-  ## Demo
-  The following video is an example of an app demonstrating command-line functionality:
-  [Application functionality demo](https://drive.google.com/file/d/1kcyomC42f5wZTWHE1EsIpQK1-VELdweD/view)
   
